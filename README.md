@@ -3,7 +3,7 @@ Poddoom is a free Doom engine survival game based on "Freedoom" and uses graphic
 Poddoom is free software and is distributed under the terms of the BSD license.<br/>
 Have fun!!!<br/>
 
-![Poddoom title screen](https://github.com/pentawire-dev/poddoom/title.png)
+![Poddoom title screen](https://github.com/pentawire-dev/poddoom/blob/main/title.png)
 
 Space Pods:<br/>
 https://pentawire.altervista.org<br/>
