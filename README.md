@@ -5,7 +5,9 @@ Have fun!!!
 
 Space Pods:
 https://pentawire.altervista.org
+https://play.google.com/store/apps/details?id=com.pentawire.spacepods (Android)
+https://apps.apple.com/us/app/space-pods/id1010404200 (IOS)
 
 Freedoom:
-https://freedoom.github.io <img width="261" height="86" alt="image" src="https://github.com/user-attachments/assets/4a5e3099-e975-4514-8ac9-c8da57ef332f" />
+https://freedoom.github.io
 
