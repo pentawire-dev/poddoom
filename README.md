@@ -13,3 +13,7 @@ https://apps.apple.com/us/app/space-pods/id1010404200 (IOS)<br/>
 Freedoom:<br/>
 https://freedoom.github.io
 
+Thanks for the music to:
+https://opengameart.org/content/airport-attack        (Episode 1 game sound theme)
+https://opengameart.org/content/railgun-rain          (Intermission music)
+https://opengameart.org/content/the-journey-continues (Intro and victory music)
