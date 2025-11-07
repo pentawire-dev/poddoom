@@ -1,7 +1,7 @@
 # Poddoom
 Poddoom is a free Doom engine survival game based on "Freedoom" and uses graphics from "Space Pods".<br/>
 Poddoom is free software and is distributed under the terms of the BSD license.<br/><br/>
-To play​​ Poddoom you need a Doom​ engine like PrBoom (https://prboom.sourceforge.net/​)<br/>
+To play​​ Poddoom you need a Doom​ engine like PrBoom (https://prboom.sourceforge.net​)<br/>
 If you use prBoom you can launch Podoom via the following command line<br/>
 **prboom.exe -iwad poddoom.wad**<br/><br/>
 Have fun!!!<br/>
